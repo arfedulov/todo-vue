@@ -1,0 +1,27 @@
+.app-text-input {
+  padding: 0 5px;
+  width: 100%;
+  height: 30px;
+  border-radius: 2px;
+  border: none;
+  outline: none;
+  font-size: inherit;
+  font-weight: inherit;
+  background-color: rgb(241, 241, 241);
+}
+
+.app-text-input--disabled {
+  background-color: inherit;
+}
+
+.app-text-input--checked {
+  text-decoration-line: line-through;
+}
+
+.app-text-input--big {
+  padding: 6px;
+}
+
+.app-checkbox {
+  height: 1.6em;
+}

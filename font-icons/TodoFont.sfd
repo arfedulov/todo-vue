@@ -1,0 +1,203 @@
+SplineFontDB: 3.0
+FontName: Icons
+FullName: Icons
+FamilyName: Icons
+Weight: Regular
+Copyright: 
+UComments: "2020-4-4: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+DefaultBaseFilename: Icons
+ItalicAngle: 0
+UnderlinePosition: -102
+UnderlineWidth: 51
+Ascent: 819
+Descent: 205
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+BBcEMAQ0BD0EOAQ5 +BD8EOwQwBD0A" 1
+Layer: 1 0 "+BB8ENQRABDUENAQ9BDgEOQAA +BD8EOwQwBD0A" 0
+XUID: [1021 264 -3442415 1404]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1586010370
+ModificationTime: 1586044306
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 92
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 38 14
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 3
+
+StartChar: exclamdown
+Encoding: 161 161 0
+Width: 1024
+VWidth: 0
+HStem: -205 64<375.456 648.544> 275 64<257.439 766.561> 755 64<375.456 648.544>
+VStem: 0 64<170.456 443.544> 480 64<52.4394 561.561> 960 64<170.456 443.544>
+CounterMasks: 1 fc
+LayerCount: 2
+Fore
+SplineSet
+512 -205 m 0
+ 229.671875 -205 0 24.671875 0 307 c 0
+ 0 589.328125 229.671875 819 512 819 c 0
+ 794.328125 819 1024 589.328125 1024 307 c 0
+ 1024 24.671875 794.328125 -205 512 -205 c 0
+512 755 m 0
+ 264.9609375 755 64 554.0390625 64 307 c 0
+ 64 59.9609375 264.9609375 -141 512 -141 c 0
+ 759.0390625 -141 960 59.9609375 960 307 c 0
+ 960 554.0390625 759.0390625 755 512 755 c 0
+512 755 m 1024
+736 275 m 2
+ 288 275 l 2
+ 270.3359375 275 256 289.3359375 256 307 c 0
+ 256 324.6640625 270.3359375 339 288 339 c 2
+ 736 339 l 2
+ 753.6640625 339 768 324.6640625 768 307 c 0
+ 768 289.3359375 753.6640625 275 736 275 c 2
+736 275 m 1024
+512 51 m 0
+ 494.3359375 51 480 65.3359375 480 83 c 2
+ 480 531 l 2
+ 480 548.6640625 494.3359375 563 512 563 c 0
+ 529.6640625 563 544 548.6640625 544 531 c 2
+ 544 83 l 2
+ 544 65.3359375 529.6640625 51 512 51 c 0
+512 51 m 1024
+EndSplineSet
+Validated: 524293
+EndChar
+
+StartChar: cent
+Encoding: 162 162 1
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -201 53<78.8567 944.143> 714 54<78.8567 399.581>
+VStem: 0 54<-122.143 688.317> 969 54<-122.143 197.614>
+LayerCount: 2
+Fore
+SplineSet
+996 198 m 0
+ 1011 198 1023 187 1023 172 c 2
+ 1023 -67 l 2
+ 1023 -141 963 -201 889 -201 c 2
+ 134 -201 l 2
+ 60 -201 0 -141 0 -67 c 2
+ 0 633 l 2
+ 0 707 60 768 134 768 c 2
+ 373 768 l 2
+ 388 768 400 756 400 741 c 0
+ 400 726 388 714 373 714 c 2
+ 134 714 l 2
+ 89 714 54 678 54 633 c 2
+ 54 -67 l 2
+ 54 -112 89 -148 134 -148 c 2
+ 889 -148 l 2
+ 934 -148 969 -112 969 -67 c 2
+ 969 172 l 2
+ 969 187 981 198 996 198 c 0
+996 198 m 1024
+420 340 m 1
+ 813 732 l 1
+ 939 606 l 1
+ 547 213 l 1
+ 420 340 l 1
+420 340 m 1024
+356 149 m 1
+ 395 289 l 1
+ 496 188 l 1
+ 356 149 l 1
+356 149 m 1024
+974 799 m 2
+ 1006 767 l 2
+ 1032 741 1032 698 1006 672 c 2
+ 977 644 l 1
+ 851 770 l 1
+ 879 799 l 2
+ 905 825 948 825 974 799 c 2
+974 799 m 1024
+EndSplineSet
+Validated: 33
+EndChar
+
+StartChar: sterling
+Encoding: 163 163 2
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -205 80<261 761> 585 80<35 118 199 314 394 630 710 824 904 989> 625 40<314 394 630 710> 739 80<394 630>
+VStem: 314 80<299.118 466 625 739> 334 80<-5 191.861> 472 80<-7 468> 610 80<-5 191.861> 630 80<299.118 466 625 739>
+LayerCount: 2
+Fore
+SplineSet
+707 466 m 1x93
+ 690 -8 l 1
+ 610 -5 l 1
+ 627 469 l 1
+ 707 466 l 1x93
+472 -7 m 1
+ 472 468 l 1
+ 552 468 l 1
+ 552 -7 l 1
+ 472 -7 l 1
+414 -5 m 1x96
+ 334 -8 l 1
+ 317 466 l 1
+ 397 469 l 1
+ 414 -5 l 1x96
+35 665 m 1xd2
+ 989 665 l 1
+ 989 585 l 1
+ 904 585 l 1
+ 838 -168 l 2
+ 836 -189 819 -205 798 -205 c 2
+ 225 -205 l 2
+ 204 -205 187 -189 185 -168 c 2
+ 118 585 l 1
+ 35 585 l 1
+ 35 665 l 1xd2
+761 -125 m 1
+ 824 585 l 1
+ 199 585 l 1
+ 261 -125 l 1
+ 761 -125 l 1
+643 819 m 2
+ 680 819 710 789 710 752 c 2
+ 710 625 l 1
+ 630 625 l 1
+ 630 739 l 1
+ 394 739 l 1
+ 394 625 l 1
+ 314 625 l 1
+ 314 752 l 2xba80
+ 314 789 344 819 381 819 c 2
+ 643 819 l 2
+EndSplineSet
+Validated: 5
+EndChar
+EndChars
+EndSplineFont
